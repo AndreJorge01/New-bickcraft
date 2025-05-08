@@ -4,6 +4,6 @@
 
 
 ## technologies used.
-+ HTML
-+ CSS
-+ JavaScript
++ HTML.
++ CSS.
++ JavaScript.
